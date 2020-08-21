@@ -1,0 +1,166 @@
+17:265  5:898  Found BIOS RSDP at %p
+17:265  0:000  Printing ACPI tables from RSDP %p ...
+17:265  0:000   %p: 'RSD PTR ÌLENOVO‘‡Ô|$', Rev: 1761958615 (Acpi 2.0 or newer), Len: 36
+17:265  0:000    (Xsdt: %p, Rsdt: %p)
+17:265  0:000    %p: 'XSDT‰', 'XSDT', Rev: 1761958439, Len: 1
+17:265  0:000    %p: 'RSDTÑ', 'RSDT', Rev: 1761958439, Len: 1
+17:265  0:000    Tables in Xsdt: 24
+17:265  0:000    0. %p: 'FACP', 'FACP', Rev: 1761958439, Len: 5
+17:265  0:000        (Dsdt: 7CEE0000, Facs: 7CE62000, XDsdt: 7cee0000, XFacs: 0)
+17:265  0:000        %p: 'DSDT"', 'DSDT', Rev: 1761958295, Len: 1
+17:266  0:001        %p: 'FACS@', Ver: 1761958459, Len: 2
+17:266  0:000    1. %p: 'SLICv', 'SLIC', Rev: 1761958439, Len: 1
+17:266  0:000    2. %p: 'DBGP4', 'DBGP', Rev: 1761958439, Len: 1
+17:266  0:000    3. %p: 'ECDTR', 'ECDT', Rev: 1761958439, Len: 1
+17:266  0:000    4. %p: 'HPET8', 'HPET', Rev: 1761958439, Len: 1
+17:266  0:000    5. %p: 'APICò', 'APIC', Rev: 1761958439, Len: 1
+17:266  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1761958439, Len: 1
+17:266  0:000    7. %p: 'SSDT3', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    8. %p: 'SSDTÜ', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    9. %p: 'SSDTx', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    10. %p: 'SSDTÁ', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    11. %p: 'SSDTÿ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    12. %p: 'SSDT\', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    13. %p: 'SSDTy', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    14. %p: 'PCCTn', 'PCCT', Rev: 1761958439, Len: 5
+17:266  0:000    15. %p: 'SSDTƒ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:266  0:000    16. %p: 'TCPA2', 'TCPA', Rev: 1761958439, Len: 2
+17:266  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1761958439, Len: 1
+17:266  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1761958439, Len: 3
+17:266  0:000    19. %p: 'ASF!•', 'ASF!', Rev: 1761958439, Len: 32
+17:266  0:000    20. %p: 'BATBF', 'BATB', Rev: 1761958439, Len: 1
+17:266  0:000    21. %p: 'FPDTd', 'FPDT', Rev: 1761958439, Len: 1
+17:266  0:000    22. %p: 'UEFI‚', 'UEFI', Rev: 1761958439, Len: 1
+17:266  0:000    23. %p: 'DMAR∞', 'DMAR', Rev: 1761958439, Len: 1
+17:266  0:000    Tables in Rsdt: 24
+17:266  0:000    0. %p: 'FACPt', 'FACP', Rev: 1761958439, Len: 1
+17:266  0:000        (Dsdt: 7CEE0000, Facs: 7CE62000)
+17:266  0:000        %p: 'DSDT"', 'DSDT', Rev: 1761958295, Len: 1
+17:267  0:001        %p: 'FACS@', Ver: 1761958459, Len: 2
+17:267  0:000    1. %p: 'SLICv', 'SLIC', Rev: 1761958439, Len: 1
+17:267  0:000    2. %p: 'DBGP4', 'DBGP', Rev: 1761958439, Len: 1
+17:267  0:000    3. %p: 'ECDTR', 'ECDT', Rev: 1761958439, Len: 1
+17:267  0:000    4. %p: 'HPET8', 'HPET', Rev: 1761958439, Len: 1
+17:267  0:000    5. %p: 'APICò', 'APIC', Rev: 1761958439, Len: 1
+17:267  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1761958439, Len: 1
+17:267  0:000    7. %p: 'SSDT3', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    8. %p: 'SSDTÜ', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    9. %p: 'SSDTx', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    10. %p: 'SSDTÁ', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    11. %p: 'SSDTÿ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    12. %p: 'SSDT\', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    13. %p: 'SSDTy', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    14. %p: 'PCCTn', 'PCCT', Rev: 1761958439, Len: 5
+17:267  0:000    15. %p: 'SSDTƒ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:267  0:000    16. %p: 'TCPA2', 'TCPA', Rev: 1761958439, Len: 2
+17:267  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1761958439, Len: 1
+17:267  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1761958439, Len: 3
+17:267  0:000    19. %p: 'ASF!•', 'ASF!', Rev: 1761958439, Len: 32
+17:267  0:000    20. %p: 'BATBF', 'BATB', Rev: 1761958439, Len: 1
+17:267  0:000    21. %p: 'FPDTd', 'FPDT', Rev: 1761958439, Len: 1
+17:267  0:000    22. %p: 'UEFI‚', 'UEFI', Rev: 1761958439, Len: 1
+17:267  0:000    23. %p: 'DMAR∞', 'DMAR', Rev: 1761958439, Len: 1
+17:267  0:000  Found UEFI Acpi 2.0 RSDP at %p
+17:267  0:000  Saving ACPI tables from RSDP %p to Âçí‚ÅÑÂëê‚Åí‰≥≠‰πÖÂôè…èÓÉîÁ≥Ø$ ...
+17:267  0:000   %p: 'RSD PTR ÌLENOVO‘‡Ô|$', Rev: 1761958615 (Acpi 2.0 or newer), Len: 36
+17:267  0:000    (Xsdt: %p, Rsdt: %p)
+17:267  0:000    %p: 'XSDT‰', 'XSDT', Rev: 1761958439, Len: 1
+17:267  0:000    %p: 'RSDTÑ', 'RSDT', Rev: 1761958439, Len: 1
+17:267  0:000    Tables in Xsdt: 24
+17:267  0:000    0. %p: 'FACP', 'FACP', Rev: 1761958439, Len: 5
+17:267  0:000        (Dsdt: 7CEE0000, Facs: 7CE62000, XDsdt: 7cee0000, XFacs: 0)
+17:267  0:000        %p: 'DSDT"', 'DSDT', Rev: 1761958295, Len: 1
+17:268  0:001        %p: 'FACS@', Ver: 1761958459, Len: 2
+17:268  0:000    1. %p: 'SLICv', 'SLIC', Rev: 1761958439, Len: 1
+17:268  0:000    2. %p: 'DBGP4', 'DBGP', Rev: 1761958439, Len: 1
+17:268  0:000    3. %p: 'ECDTR', 'ECDT', Rev: 1761958439, Len: 1
+17:268  0:000    4. %p: 'HPET8', 'HPET', Rev: 1761958439, Len: 1
+17:268  0:000    5. %p: 'APICò', 'APIC', Rev: 1761958439, Len: 1
+17:268  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1761958439, Len: 1
+17:268  0:000    7. %p: 'SSDT3', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    8. %p: 'SSDTÜ', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    9. %p: 'SSDTx', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    10. %p: 'SSDTÁ', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    11. %p: 'SSDTÿ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    12. %p: 'SSDT\', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    13. %p: 'SSDTy', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    14. %p: 'PCCTn', 'PCCT', Rev: 1761958439, Len: 5
+17:268  0:000    15. %p: 'SSDTƒ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:268  0:000    16. %p: 'TCPA2', 'TCPA', Rev: 1761958439, Len: 2
+17:268  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1761958439, Len: 1
+17:268  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1761958439, Len: 3
+17:268  0:000    19. %p: 'ASF!•', 'ASF!', Rev: 1761958439, Len: 32
+17:268  0:000    20. %p: 'BATBF', 'BATB', Rev: 1761958439, Len: 1
+17:268  0:000    21. %p: 'FPDTd', 'FPDT', Rev: 1761958439, Len: 1
+17:268  0:000    22. %p: 'UEFI‚', 'UEFI', Rev: 1761958439, Len: 1
+17:268  0:000    23. %p: 'DMAR∞', 'DMAR', Rev: 1761958439, Len: 1
+17:268  0:000    Tables in Rsdt: 24
+17:268  0:000    0. %p: 'FACPt', 'FACP', Rev: 1761958439, Len: 1
+17:268  0:000        (Dsdt: 7CEE0000, Facs: 7CE62000)
+17:268  0:000        %p: 'DSDT"', 'DSDT', Rev: 1761958295, Len: 1
+17:269  0:001        %p: 'FACS@', Ver: 1761958459, Len: 2
+17:269  0:000    1. %p: 'SLICv', 'SLIC', Rev: 1761958439, Len: 1
+17:269  0:000    2. %p: 'DBGP4', 'DBGP', Rev: 1761958439, Len: 1
+17:269  0:000    3. %p: 'ECDTR', 'ECDT', Rev: 1761958439, Len: 1
+17:269  0:000    4. %p: 'HPET8', 'HPET', Rev: 1761958439, Len: 1
+17:269  0:000    5. %p: 'APICò', 'APIC', Rev: 1761958439, Len: 1
+17:269  0:000    6. %p: 'MCFG<', 'MCFG', Rev: 1761958439, Len: 1
+17:269  0:000    7. %p: 'SSDT3', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    8. %p: 'SSDTÜ', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    9. %p: 'SSDTx', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    10. %p: 'SSDTÁ', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    11. %p: 'SSDTÿ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    12. %p: 'SSDT\', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    13. %p: 'SSDTy', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    14. %p: 'PCCTn', 'PCCT', Rev: 1761958439, Len: 5
+17:269  0:000    15. %p: 'SSDTƒ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:269  0:000    16. %p: 'TCPA2', 'TCPA', Rev: 1761958439, Len: 2
+17:269  0:000    17. %p: 'UEFIB', 'UEFI', Rev: 1761958439, Len: 1
+17:269  0:000    18. %p: 'MSDMU', 'MSDM', Rev: 1761958439, Len: 3
+17:269  0:000    19. %p: 'ASF!•', 'ASF!', Rev: 1761958439, Len: 32
+17:269  0:000    20. %p: 'BATBF', 'BATB', Rev: 1761958439, Len: 1
+17:269  0:000    21. %p: 'FPDTd', 'FPDT', Rev: 1761958439, Len: 1
+17:269  0:000    22. %p: 'UEFI‚', 'UEFI', Rev: 1761958439, Len: 1
+17:269  0:000    23. %p: 'DMAR∞', 'DMAR', Rev: 1761958439, Len: 1
+17:269  0:000  Found UEFI Acpi 1.0 RSDP at %p
+17:269  0:000  Printing ACPI tables from RSDP %p ...
+17:269  0:000   %p: 'RSD PTR ãLENOVO', Rev: 1761958615 (Acpi 1.0), Len: 20
+17:269  0:000    (Rsdt: %p)
+17:269  0:000    %p: 'RSDTÄ', 'RSDT', Rev: 1761958439, Len: 1
+17:269  0:000    Tables in Rsdt: 23
+17:269  0:000    0. %p: 'FACPt', 'FACP', Rev: 1761958439, Len: 1
+17:269  0:000        (Dsdt: 7CEE0000, Facs: 7CE62000)
+17:269  0:000        %p: 'DSDT"', 'DSDT', Rev: 1761958295, Len: 1
+17:270  0:001        %p: 'FACS@', Ver: 1761958459, Len: 2
+17:270  0:000    1. %p: 'DBGP4', 'DBGP', Rev: 1761958439, Len: 1
+17:270  0:000    2. %p: 'ECDTR', 'ECDT', Rev: 1761958439, Len: 1
+17:270  0:000    3. %p: 'HPET8', 'HPET', Rev: 1761958439, Len: 1
+17:270  0:000    4. %p: 'APICò', 'APIC', Rev: 1761958439, Len: 1
+17:270  0:000    5. %p: 'MCFG<', 'MCFG', Rev: 1761958439, Len: 1
+17:270  0:000    6. %p: 'SSDT3', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    7. %p: 'SSDTÜ', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    8. %p: 'SSDTx', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    9. %p: 'SSDTÁ', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    10. %p: 'SSDTÿ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    11. %p: 'SSDT\', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    12. %p: 'SSDTy', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    13. %p: 'PCCTn', 'PCCT', Rev: 1761958439, Len: 5
+17:270  0:000    14. %p: 'SSDTƒ
+', 'SSDT', Rev: 1761958439, Len: 1
+17:270  0:000    15. %p: 'TCPA2', 'TCPA', Rev: 1761958439, Len: 2
+17:270  0:000    16. %p: 'UEFIB', 'UEFI', Rev: 1761958439, Len: 1
+17:270  0:000    17. %p: 'MSDMU', 'MSDM', Rev: 1761958439, Len: 3
+17:270  0:000    18. %p: 'ASF!•', 'ASF!', Rev: 1761958439, Len: 32
+17:270  0:000    19. %p: 'BATBF', 'BATB', Rev: 1761958439, Len: 1
+17:270  0:000    20. %p: 'FPDTd', 'FPDT', Rev: 1761958439, Len: 1
+17:270  0:000    21. %p: 'UEFI‚', 'UEFI', Rev: 1761958439, Len: 1
+17:270  0:000    22. %p: 'DMAR∞', 'DMAR', Rev: 1761958439, Len: 1

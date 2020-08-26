@@ -6,7 +6,9 @@
 	<dict>
 		<key>SSDT</key>
 		<dict>
-			<key>DropOem</key>
+			<key>MaxMultiplier</key>
+			<integer>13</integer>
+			<key>NoOemTableId</key>
 			<false/>
 			<key>Generate</key>
 			<dict>
@@ -17,8 +19,14 @@
 				<key>PluginType</key>
 				<true/>
 			</dict>
-			<key>NoOemTableId</key>
+			<key>DropOem</key>
 			<false/>
+			<key>MinMultiplier</key>
+			<integer>1</integer>
+			<key>PluginType</key>
+			<string>1</string>
+			<key>UnderVoltStep</key>
+			<string>1</string>
 		</dict>
 		<key>SortedOrder</key>
 		<array>
@@ -142,7 +150,7 @@
 		<key>CustomLogo</key>
 		<string>Alternate</string>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -disablegfxfirmware darkwake=0 igfxonln=1</string>
+		<string>dart=0 nv_disable=1 -disablegfxfirmware darkwake=0 igfxonln=1 hbfx-patch-pci=XHC,IMEI,IGPU</string>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
@@ -201,8 +209,6 @@
 	<dict>
 		<key>SetIntelBacklight</key>
 		<true/>
-		<key>SetIntelMaxBacklight</key>
-		<true/>
 		<key>FakeID</key>
 		<dict>
 			<key>IntelGFX</key>
@@ -217,6 +223,12 @@
 			<key>Inject</key>
 			<integer>28</integer>
 		</dict>
+		<key>SetIntelMaxBacklight</key>
+		<true/>
+		<key>IntelMaxValue</key>
+		<string>0x0710</string>
+		<key>UseIntelHDMI</key>
+		<true/>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -226,8 +238,6 @@
 			<key>Inject</key>
 			<true/>
 		</dict>
-		<key>UseIntelHDMI</key>
-		<true/>
 	</dict>
 	<key>DisableDrivers</key>
 	<array>

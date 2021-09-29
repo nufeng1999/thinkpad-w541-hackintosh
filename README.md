@@ -1,3 +1,6 @@
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/nufeng1999/thinkpad-w541-hackintosh.svg">
+    <a href="https://github.com/nufeng1999/wsl_XWin_Cygwin"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://raw.githubusercontent.com/nufeng1999/thinkpad-w541-hackintosh/master/clone.json&logo=github"></a>
+
 # thinkpad-w541-hackintosh
 CLOVER
 
